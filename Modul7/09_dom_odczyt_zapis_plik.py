@@ -2,7 +2,6 @@
 with open('dane_klientow.txt', encoding='utf8', mode='r') as file:
     lines = [line.strip() for line in file.readlines()]
 
-
 answer = input('Podaj imię i nazwisko: ')
 name, surname = answer.split(' ')
 
