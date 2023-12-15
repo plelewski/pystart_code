@@ -54,3 +54,16 @@ if __name__ == '__main__':
     # report1.show_data()
     rep = ReportKacper()
     print(rep.get_report('color', basket1))
+
+
+
+
+
+
+
+
+
+
+
+
+
